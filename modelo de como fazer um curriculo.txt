@@ -1,0 +1,33 @@
+Nome Completo: Jonas Moreira
+
+vaga desejada
+Dados Pessoas:
+Nacionalidade:
+idade:
+Endereço: NUMERO E CIDADE
+Cidade e Estado:
+Email:
+Celular:
+
+Portfólio:
+LinkdIn:
+Github:
+
+objetivo:
+buscando a realização de um sonho que é ingressar no mercado de trabalho como Porgramador
+
+Perfil Profissional
+Desde que me interessei na area da programação, estudo diariamente para conseguir a minha primeira oportunidade. há 8 meses venho desenvolvendo diversos projeros para colocar em prática todo o meu conhecimento e tenhon certeza que estou pronto para somar a sua equipe de programadores. tenho facilidade de aprendizado, boa comunicação e a todo momento busco me aprimorar cada vez mais.
+
+Tecnologias
+HTML5, CSS3, Javascript, PHP, Github, Python
+
+Formação Acadêmica
+
+Projetos em destaque
+link: https://
+
+Cursos Extracurriculares
+- Lógica de Programação - DevMedia
+- React Avançado - DevMedia
+
